@@ -1,0 +1,4 @@
+<!--launch rviz-->
+<launch>  
+<node pkg="rviz" type="rviz" name="rviz" args="-d /home/tehnanmanna/Project_5_1/src/my_robot/PJ3.rviz"/>
+</launch>
